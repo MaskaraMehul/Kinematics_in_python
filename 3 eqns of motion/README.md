@@ -1,1 +1,2 @@
-[README.md](https://github.com/MaskaraMehul/Kinematics_in_python/files/14469742/README.md)
+# Kinematics-Calculator
+Basic Calculator for 3 equations of uniform motion with graphs.
